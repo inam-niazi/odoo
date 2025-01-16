@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
-    <!-- Form View for Doctor OD inam niazi  -->
+    <!-- Form View for Doctor OD -->
     <record id="doctor_od_form_view" model="ir.ui.view">
         <field name="name">doctor.od.form</field>
         <field name="model">doc.od</field>
